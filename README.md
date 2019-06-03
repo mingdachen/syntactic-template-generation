@@ -1,5 +1,5 @@
 # syntactic-template-generation
-A PyTorch implementation of Controllable Paraphrase Generation with a Syntactic Exemplar
+A PyTorch implementation of [Controllable Paraphrase Generation with a Syntactic Exemplar](https://ttic.uchicago.edu/~mchen/papers/mchen+etal.acl19.pdf)
 
 ## Requirements
 
