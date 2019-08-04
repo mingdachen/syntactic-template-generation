@@ -13,7 +13,7 @@ import numpy as np
 from config import get_base_parser, MULTI_BLEU_PERL, \
     EOS_IDX, MAX_GEN_LEN
 from decorators import auto_init_args
-from metrics import Meteor
+from eval_utils import Meteor
 
 
 def register_exit_handler(exit_handler):
